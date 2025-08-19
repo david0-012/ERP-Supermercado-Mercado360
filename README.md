@@ -13,4 +13,3 @@
 | **ASP .NET** | ![ASP .NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg) |
 | **Microsoft Visual Studio** | ![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg) |
 | **C#** | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) |
-# ERP-Supermercado-Mercado360
